@@ -1,0 +1,16 @@
+{
+  "Policy.TITLE[AcceptRefugees]": "接受难民",
+  "Policy.DESCRIPTION[AcceptRefugees]": " - 犯罪累积 + 12%\n - 吸引力 + 240\n - 吸引力 + 5%\n - 娱乐 - 10%\n - 疾病概率 + 2.5%\n - 犯罪概率 + 2.5%\n - 进口成本 + 1%\n ",
+
+  "Policy.TITLE[DigitalizationInitiative]": "信息化建设",
+  "Policy.DESCRIPTION[DigitalizationInitiative]": " - 工业电子产品需求 + 60%\n - 工业电子产品效率 + 50%\n - 办公软件需求 + 20%\n - 办公软件效率 + 10%\n - 工业空气污染 - 10%\n - 工业地面污染 - 10%\n - 电信容量 - 25%\n - 建筑拆除成本 + 20%\n - 犯罪概率 -  2.5%\n - 学院制大学毕业率 + 2.5%\n - 综合性大学毕业率 + 2.5%\n - 出口成本 - 3%\n ",
+
+  "Policy.TITLE[OverloadedIndustrialProduction]": "超负荷工业生产",
+  "Policy.DESCRIPTION[OverloadedIndustrialProduction]": " - 工业效率 + 30%\n - 工业空气污染 + 40%\n - 工业地面污染 + 40%\n - 工业垃圾 + 28%\n - 娱乐 - 20%\n - 学院制大学毕业率 - 2.5%\n - 综合性大学毕业率 - 2.5%\n - 大学兴趣 - 2.5%\n - 工业电子产品需求 + 3%\n - 疾病概率 + 2%\n - 犯罪累积 + 1%\n ",
+
+  "Policy.TITLE[RestrictExports]": "限制出口",
+  "Policy.DESCRIPTION[RestrictExports]": " - 出口成本 + 75%\n - 工业效率 - 5%\n ",
+
+  "Policy.TITLE[RestrictImports]": "限制进口",
+  "Policy.DESCRIPTION[RestrictImports]": " - 进口成本 + 75%\n - 工业效率 - 5%\n "
+}

@@ -1,0 +1,138 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.PolicyTogglePrefab, Game",
+    "name": "AcceptRefugees",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 3,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.CityModifiers, Game",
+                "name": "CityModifiers",
+                "active": true,
+                "m_Modifiers": {
+                    "$id": 3,
+                    "$type": "3|Game.Prefabs.CityModifierInfo[], Game",
+                    "$rlength": 7,
+                    "$rcontent": [
+                        {
+                            "$id": 4,
+                            "$type": "4|Game.Prefabs.CityModifierInfo, Game",
+                            "m_Type": 1,
+                            "m_Mode": 0,
+                            "m_Range": {
+                                "$type": "5|Colossal.Mathematics.Bounds1, Colossal.Mathematics",
+                                "min": 0.12,
+                                "max": 0.12
+                            }
+                        },
+                        {
+                            "$id": 5,
+                            "$type": 4,
+                            "m_Type": 0,
+                            "m_Mode": 1,
+                            "m_Range": {
+                                "$type": 5,
+                                "min": 180,
+                                "max": 180
+                            }
+                        },
+                        {
+                            "$id": 6,
+                            "$type": 4,
+                            "m_Type": 0,
+                            "m_Mode": 0,
+                            "m_Range": {
+                                "$type": 5,
+                                "min": 0.05,
+                                "max": 0.05
+                            }
+                        },
+                        {
+                            "$id": 7,
+                            "$type": 4,
+                            "m_Type": 5,
+                            "m_Mode": 0,
+                            "m_Range": {
+                                "$type": 5,
+                                "min": 0.025,
+                                "max": 0.025
+                            }
+                        },
+                        {
+                            "$id": 8,
+                            "$type": 4,
+                            "m_Type": 23,
+                            "m_Mode": 0,
+                            "m_Range": {
+                                "$type": 5,
+                                "min": 0.02,
+                                "max": 0.025
+                            }
+                        },
+                        {
+                            "$id": 9,
+                            "$type": 4,
+                            "m_Type": 26,
+                            "m_Mode": 0,
+                            "m_Range": {
+                                "$type": 5,
+                                "min": 0.01,
+                                "max": 0.01
+                            }
+                        },
+                        {
+                            "$id": 10,
+                            "$type": 4,
+                            "m_Type": 20,
+                            "m_Mode": 0,
+                            "m_Range": {
+                                "$type": 5,
+                                "min": -0.1,
+                                "max": -0.1
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 11,
+                "$type": "6|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": null,
+                "m_Priority": 101,
+                "m_Icon": "coui://customassets/mioPolicyAssetPack/icon/AcceptRefugees.png",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 12,
+                "$type": "7|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 13,
+                    "$type": "8|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"UnityGUID:303506d3e2bc587489b2b4d267c99388"
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 14,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": false
+            }
+        ]
+    },
+    "m_Visibility": 0,
+    "m_Category": 5
+}

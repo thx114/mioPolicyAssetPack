@@ -1,4 +1,16 @@
 {
-  "Assets.NAME[CarProp]": "Example Name",
-  "Assets.DESCRIPTION[CarProp]": "Example Description"
+  "Policy.TITLE[AcceptRefugees]": "Accept Refugees",
+  "Policy.DESCRIPTION[AcceptRefugees]": "- Crime Accumulation +12%\n - Attractiveness +240\n - Attractiveness +5%\n - Entertainment -10%\n - Disease Probability +2.5%\n - Crime Probability +2.5%\n - Import Cost +1%",
+
+  "Policy.TITLE[DigitalizationInitiative]": "Digitalization Initiative",
+  "Policy.DESCRIPTION[DigitalizationInitiative]": "- Industrial Electronics Demand +60%\n - Industrial Electronics Efficiency +50%\n - Office Software Demand +20%\n - Office Software Efficiency +10%\n - Industrial Air Pollution -10%\n - Industrial Ground Pollution -10%\n - Telecommunication Capacity -25%\n - Building Demolition Cost +20%\n - Crime Probability -2.5%\n - Polytechnic Graduation Rate +2.5%\n - Comprehensive University Graduation Rate +2.5%\n - Export Cost -3%",
+
+  "Policy.TITLE[OverloadedIndustrialProduction]": "Overloaded Industrial Production",
+  "Policy.DESCRIPTION[OverloadedIndustrialProduction]": "- Industrial Efficiency +30%\n - Industrial Air Pollution +40%\n - Industrial Ground Pollution +40%\n - Industrial Waste +28%\n - Entertainment -20%\n - Polytechnic Graduation Rate -2.5%\n - Comprehensive University Graduation Rate -2.5%\n - University Interest -2.5%\n - Industrial Electronics Demand +3%\n - Disease Probability +2%\n - Crime Accumulation +1%",
+
+  "Policy.TITLE[RestrictExports]": "Restrict Exports",
+  "Policy.DESCRIPTION[RestrictExports]": "- Export Cost +75%\n - Industrial Efficiency -5%",
+
+  "Policy.TITLE[RestrictImports]": "Restrict Imports",
+  "Policy.DESCRIPTION[RestrictImports]": "- Import Cost +75%\n - Industrial Efficiency -5%"
 }
