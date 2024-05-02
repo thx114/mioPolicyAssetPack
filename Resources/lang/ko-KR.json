@@ -1,12 +1,12 @@
 {
   "Policy.TITLE[AcceptRefugees]": "난민 수용",
-  "Policy.DESCRIPTION[AcceptRefugees]": "- 범죄 성공률 +12%\n - 매력 +240\n - 매력 +5%\n - 엔터테인먼트 -10%\n - 질병 감염 위험 +2.5%\n - 범죄율 +2.5%\n - 수입 비용 +1%",
+  "Policy.DESCRIPTION[AcceptRefugees]": "- 범죄자 수 누적 +12%\n - 매력 +240\n - 매력 +5%\n - 엔터테인먼트 -10%\n - 질병 감염 위험 +2.5%\n - 범죄율 +2.5%\n - 수입 비용 +1%",
 
   "Policy.TITLE[DigitalizationInitiative]": "디지털 도시화",
   "Policy.DESCRIPTION[DigitalizationInitiative]": "- 전제제품 수요 +60%\n - 전제제품 생산 효율 +50%\n - 소프트웨어 수요 +20%\n - 소프트웨어 생산 효율 +10%\n - 산업 대기 오염 -10%\n - 산업 토양 오염 -10%\n - 통신 용량 -25%\n - 건물 철거 비용 +20%\n - 범죄율 -2.5%\n - 전문 대학교 졸업률 +2.5%\n - 종합 대학교 졸업률 +2.5%\n - 수출 비용 -3%",
 
   "Policy.TITLE[OverloadedIndustrialProduction]": "산업 과잉 생산",
-  "Policy.DESCRIPTION[OverloadedIndustrialProduction]": "- 산업 효율 +30%\n - 산업 대기 오염 +40%\n - 산업 토양 오염 +40%\n - 산업 폐기물 +28%\n - 엔터테인먼트 -20%\n - 전문 대학교 졸업률 -2.5%\n - 종합 대학교 졸업률 -2.5%\n - 대학 관심 -2.5%\n - 전자제품 수요 +3%\n - 질병 감염 위험 +2%\n - 범죄 성공률 +1%",
+  "Policy.DESCRIPTION[OverloadedIndustrialProduction]": "- 산업 효율 +30%\n - 산업 대기 오염 +40%\n - 산업 토양 오염 +40%\n - 산업 폐기물 +28%\n - 엔터테인먼트 -20%\n - 전문 대학교 졸업률 -2.5%\n - 종합 대학교 졸업률 -2.5%\n - 대학 관심 -2.5%\n - 전자제품 수요 +3%\n - 질병 감염 위험 +2%\n - 범죄자 수 누적 +1%",
 
   "Policy.TITLE[RestrictExports]": "수출 제한",
   "Policy.DESCRIPTION[RestrictExports]": "- 수출 비용 +75%\n - 산업 효율-5%",
